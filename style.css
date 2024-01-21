@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 :root {
   --yellow: hsl(47, 88%, 63%);
   --white: hsl(0, 0%, 100%);
@@ -20,7 +21,6 @@ body {
   align-items: center;
   min-height: 100vh;
 }
-
 
 .card {
   background-color: var(--white);
@@ -80,7 +80,6 @@ p:nth-of-type(2) {
 .avatar img {
   width: 40px;
   margin-right: 1rem;
-
 }
 
 .avatar p {
