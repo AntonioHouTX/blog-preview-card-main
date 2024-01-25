@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [Mobile-first solution using CSS Flexbox](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-css-flexbox-ELwTBP_xcJ)
 - Live Site URL: [Blog Preview Card Solution](https://antoniohoutx.github.io/blog-preview-card-main/)
 
 ## My process
